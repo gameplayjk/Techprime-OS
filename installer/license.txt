@@ -1,0 +1,5 @@
+*Requisitos do TechPrime OS*
+Windows 7 Ou Superior
+Dual Core Processor 2.0 GHz
+2 GB Ram
+-----------------------------
